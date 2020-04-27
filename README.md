@@ -13,4 +13,5 @@ A simple web application to calculate your expenses.
 
 #### Getting Started
 
-- Run `npm install && npm start` to run the app successfully.
+- Save `config.example.env` file into `config.env` config folder and enter your mongoDB atlas connection string.
+- Run `npm install && npm dev` to run the app successfully.
